@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:black_carpet"
+    },
+    {
+      "item": "minecraft:black_carpet"
+    },
+    {
+      "item": "minecraft:black_carpet"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:black_wool"
+  }
+}

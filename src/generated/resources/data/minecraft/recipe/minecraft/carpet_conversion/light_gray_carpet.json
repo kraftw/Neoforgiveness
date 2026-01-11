@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:light_gray_carpet"
+    },
+    {
+      "item": "minecraft:light_gray_carpet"
+    },
+    {
+      "item": "minecraft:light_gray_carpet"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:light_gray_wool"
+  }
+}

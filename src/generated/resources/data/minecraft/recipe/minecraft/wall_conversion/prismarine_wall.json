@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:prismarine_wall"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:prismarine"
+  }
+}
