@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "colorfulazaleas:pitch_azalea_fence_gate"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "colorfulazaleas:pitch_azalea_planks"
+  }
+}

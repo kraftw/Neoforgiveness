@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "dustydecorations:orange_cushion_stairs"
+    },
+    {
+      "item": "dustydecorations:orange_cushion_stairs"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "dustydecorations:orange_cushion"
+  }
+}

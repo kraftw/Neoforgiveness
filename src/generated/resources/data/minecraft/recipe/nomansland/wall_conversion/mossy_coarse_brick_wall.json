@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "nomansland:mossy_coarse_brick_wall"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "nomansland:mossy_coarse_bricks"
+  }
+}

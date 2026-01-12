@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "mcwpaths:brick_flagstone_stairs"
+    },
+    {
+      "item": "mcwpaths:brick_flagstone_stairs"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "mcwpaths:brick_flagstone"
+  }
+}

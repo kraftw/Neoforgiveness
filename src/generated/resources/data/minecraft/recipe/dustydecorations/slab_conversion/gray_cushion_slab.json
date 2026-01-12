@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "dustydecorations:gray_cushion_slab"
+    },
+    {
+      "item": "dustydecorations:gray_cushion_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "dustydecorations:gray_cushion"
+  }
+}

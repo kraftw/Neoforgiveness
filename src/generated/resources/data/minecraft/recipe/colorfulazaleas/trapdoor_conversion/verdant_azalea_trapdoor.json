@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "colorfulazaleas:verdant_azalea_trapdoor"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "colorfulazaleas:verdant_azalea_planks"
+  }
+}

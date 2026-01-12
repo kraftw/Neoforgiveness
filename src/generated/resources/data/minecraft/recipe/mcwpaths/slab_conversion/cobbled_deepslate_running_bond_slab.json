@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "mcwpaths:cobbled_deepslate_running_bond_slab"
+    },
+    {
+      "item": "mcwpaths:cobbled_deepslate_running_bond_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwpaths:cobbled_deepslate_running_bond"
+  }
+}

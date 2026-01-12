@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "dustydecorations:burlap_stairs"
+    },
+    {
+      "item": "dustydecorations:burlap_stairs"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "dustydecorations:burlap_block"
+  }
+}

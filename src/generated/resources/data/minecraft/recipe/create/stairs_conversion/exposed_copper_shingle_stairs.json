@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "create:exposed_copper_shingle_stairs"
+    },
+    {
+      "item": "create:exposed_copper_shingle_stairs"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "create:exposed_copper_shingles"
+  }
+}

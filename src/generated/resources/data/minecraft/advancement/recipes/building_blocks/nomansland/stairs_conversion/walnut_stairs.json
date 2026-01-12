@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_stairs": {
+      "conditions": {
+        "items": [
+          {
+            "items": "nomansland:walnut_stairs"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:nomansland/stairs_conversion/walnut_stairs"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_stairs"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:nomansland/stairs_conversion/walnut_stairs"
+    ]
+  }
+}

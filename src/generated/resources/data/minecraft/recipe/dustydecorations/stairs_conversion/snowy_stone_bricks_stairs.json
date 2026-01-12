@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "dustydecorations:snowy_stone_bricks_stairs"
+    },
+    {
+      "item": "dustydecorations:snowy_stone_bricks_stairs"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "dustydecorations:snowy_stone_bricks"
+  }
+}

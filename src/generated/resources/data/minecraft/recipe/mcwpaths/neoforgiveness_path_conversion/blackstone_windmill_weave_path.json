@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "mcwpaths:blackstone_windmill_weave_path"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwpaths:blackstone_windmill_weave"
+  }
+}

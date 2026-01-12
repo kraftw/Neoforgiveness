@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "colorfulazaleas:earthen_azalea_stairs"
+    },
+    {
+      "item": "colorfulazaleas:earthen_azalea_stairs"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "colorfulazaleas:earthen_azalea_planks"
+  }
+}

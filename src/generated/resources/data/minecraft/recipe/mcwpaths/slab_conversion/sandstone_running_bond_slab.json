@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "mcwpaths:sandstone_running_bond_slab"
+    },
+    {
+      "item": "mcwpaths:sandstone_running_bond_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwpaths:sandstone_running_bond"
+  }
+}

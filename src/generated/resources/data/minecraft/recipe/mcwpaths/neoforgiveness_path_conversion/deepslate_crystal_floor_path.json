@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "mcwpaths:deepslate_crystal_floor_path"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwpaths:deepslate_crystal_floor"
+  }
+}

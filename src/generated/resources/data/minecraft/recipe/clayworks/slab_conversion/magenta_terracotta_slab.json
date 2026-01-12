@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "clayworks:magenta_terracotta_slab"
+    },
+    {
+      "item": "clayworks:magenta_terracotta_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "clayworks:magenta_terracotta_bricks"
+  }
+}

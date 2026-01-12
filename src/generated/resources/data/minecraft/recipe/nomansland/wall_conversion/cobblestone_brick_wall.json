@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "nomansland:cobblestone_brick_wall"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "nomansland:cobblestone_bricks"
+  }
+}

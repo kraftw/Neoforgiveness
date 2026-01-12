@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "dustydecorations:wicker_slab"
+    },
+    {
+      "item": "dustydecorations:wicker_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "dustydecorations:wicker"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "supplementaries:ash_bricks_slab"
+    },
+    {
+      "item": "supplementaries:ash_bricks_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "supplementaries:ash_bricks"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "mcwpaths:sandstone_flagstone_slab"
+    },
+    {
+      "item": "mcwpaths:sandstone_flagstone_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwpaths:sandstone_flagstone"
+  }
+}

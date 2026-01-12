@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "dustydecorations:corrugated_metal_pressure_plate"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "dustydecorations:corrugated_metal"
+  }
+}

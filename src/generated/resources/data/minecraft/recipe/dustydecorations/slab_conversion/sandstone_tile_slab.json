@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "dustydecorations:sandstone_tile_slab"
+    },
+    {
+      "item": "dustydecorations:sandstone_tile_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "dustydecorations:sandstone_tile"
+  }
+}

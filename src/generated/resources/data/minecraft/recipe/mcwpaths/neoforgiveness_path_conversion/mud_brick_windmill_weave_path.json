@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "mcwpaths:mud_brick_windmill_weave_path"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwpaths:mud_brick_windmill_weave"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_stairs": {
+      "conditions": {
+        "items": [
+          {
+            "items": "mcwpaths:blackstone_crystal_floor_stairs"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:mcwpaths/stairs_conversion/blackstone_crystal_floor_stairs"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_stairs"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:mcwpaths/stairs_conversion/blackstone_crystal_floor_stairs"
+    ]
+  }
+}

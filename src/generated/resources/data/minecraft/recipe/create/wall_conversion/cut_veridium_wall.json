@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "create:cut_veridium_wall"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "create:cut_veridium"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "clayworks:red_terracotta_stairs"
+    },
+    {
+      "item": "clayworks:red_terracotta_stairs"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "clayworks:red_terracotta_bricks"
+  }
+}

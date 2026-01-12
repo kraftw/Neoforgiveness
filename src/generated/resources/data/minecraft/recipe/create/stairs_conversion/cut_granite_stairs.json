@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "create:cut_granite_stairs"
+    },
+    {
+      "item": "create:cut_granite_stairs"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "create:cut_granite"
+  }
+}

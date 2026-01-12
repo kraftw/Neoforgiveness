@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "everycomp:crwo/colorfulazaleas/fiss_azalea_tile_stairs"
+    },
+    {
+      "item": "everycomp:crwo/colorfulazaleas/fiss_azalea_tile_stairs"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "everycomp:crwo/colorfulazaleas/fiss_azalea_tiles"
+  }
+}

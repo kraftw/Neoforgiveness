@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "bountifulfares:walnut_stairs"
+    },
+    {
+      "item": "bountifulfares:walnut_stairs"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "bountifulfares:walnut_planks"
+  }
+}

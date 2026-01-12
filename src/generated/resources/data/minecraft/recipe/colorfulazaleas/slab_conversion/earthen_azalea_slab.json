@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "colorfulazaleas:earthen_azalea_slab"
+    },
+    {
+      "item": "colorfulazaleas:earthen_azalea_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "colorfulazaleas:earthen_azalea_planks"
+  }
+}

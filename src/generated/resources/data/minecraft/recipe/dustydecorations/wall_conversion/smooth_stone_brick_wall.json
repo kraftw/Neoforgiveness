@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "dustydecorations:smooth_stone_brick_wall"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "dustydecorations:smooth_stone_brick"
+  }
+}

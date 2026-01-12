@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "bountifulfares:coir_brick_slab"
+    },
+    {
+      "item": "bountifulfares:coir_brick_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "bountifulfares:coir_bricks"
+  }
+}

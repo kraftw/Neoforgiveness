@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_door": {
+      "conditions": {
+        "items": [
+          {
+            "items": "bountifulfares:walnut_door"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:bountifulfares/door_conversion/walnut_door"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_door"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:bountifulfares/door_conversion/walnut_door"
+    ]
+  }
+}

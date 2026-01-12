@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "colorfulazaleas:pitch_azalea_door"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "colorfulazaleas:pitch_azalea_planks"
+  }
+}

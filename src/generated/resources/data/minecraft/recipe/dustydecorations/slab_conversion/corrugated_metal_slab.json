@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "dustydecorations:corrugated_metal_slab"
+    },
+    {
+      "item": "dustydecorations:corrugated_metal_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "dustydecorations:corrugated_metal"
+  }
+}

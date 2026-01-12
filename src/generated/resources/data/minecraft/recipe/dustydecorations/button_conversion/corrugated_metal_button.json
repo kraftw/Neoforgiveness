@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "dustydecorations:corrugated_metal_button"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "dustydecorations:corrugated_metal"
+  }
+}

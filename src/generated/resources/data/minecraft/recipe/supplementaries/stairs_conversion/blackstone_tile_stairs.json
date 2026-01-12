@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "supplementaries:blackstone_tile_stairs"
+    },
+    {
+      "item": "supplementaries:blackstone_tile_stairs"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "supplementaries:blackstone_tile"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "mcwpaths:red_sandstone_crystal_floor_slab"
+    },
+    {
+      "item": "mcwpaths:red_sandstone_crystal_floor_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwpaths:red_sandstone_crystal_floor"
+  }
+}

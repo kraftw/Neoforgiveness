@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "nomansland:earthen_tile_slab"
+    },
+    {
+      "item": "nomansland:earthen_tile_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "nomansland:earthen_tiles"
+  }
+}

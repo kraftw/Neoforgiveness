@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "dustydecorations:rusty_corrugated_metal_stairs"
+    },
+    {
+      "item": "dustydecorations:rusty_corrugated_metal_stairs"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "dustydecorations:rusty_corrugated_metal_block"
+  }
+}

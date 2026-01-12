@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "dustydecorations:rusty_corrugated_metal_fence_gate"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "dustydecorations:rusty_corrugated_metal_block"
+  }
+}

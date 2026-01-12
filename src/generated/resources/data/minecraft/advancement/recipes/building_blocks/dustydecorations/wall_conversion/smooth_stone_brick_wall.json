@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:dustydecorations/wall_conversion/smooth_stone_brick_wall"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_wall": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dustydecorations:smooth_stone_brick_wall"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_wall"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:dustydecorations/wall_conversion/smooth_stone_brick_wall"
+    ]
+  }
+}

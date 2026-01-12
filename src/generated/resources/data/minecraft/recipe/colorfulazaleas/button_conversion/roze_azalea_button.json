@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "colorfulazaleas:roze_azalea_button"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "colorfulazaleas:roze_azalea_planks"
+  }
+}

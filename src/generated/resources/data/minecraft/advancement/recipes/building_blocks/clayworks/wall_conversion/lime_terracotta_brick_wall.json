@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:clayworks/wall_conversion/lime_terracotta_brick_wall"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_wall": {
+      "conditions": {
+        "items": [
+          {
+            "items": "clayworks:lime_terracotta_brick_wall"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_wall"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:clayworks/wall_conversion/lime_terracotta_brick_wall"
+    ]
+  }
+}

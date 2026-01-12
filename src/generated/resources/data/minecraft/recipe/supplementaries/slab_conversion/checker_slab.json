@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "supplementaries:checker_slab"
+    },
+    {
+      "item": "supplementaries:checker_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "supplementaries:checker_block"
+  }
+}

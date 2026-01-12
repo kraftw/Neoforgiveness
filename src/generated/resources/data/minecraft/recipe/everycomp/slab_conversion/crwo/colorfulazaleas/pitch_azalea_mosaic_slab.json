@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "everycomp:crwo/colorfulazaleas/pitch_azalea_mosaic_slab"
+    },
+    {
+      "item": "everycomp:crwo/colorfulazaleas/pitch_azalea_mosaic_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "everycomp:crwo/colorfulazaleas/pitch_azalea_mosaic"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "dustydecorations:warm_seaglass_ceramic_tile_slab"
+    },
+    {
+      "item": "dustydecorations:warm_seaglass_ceramic_tile_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "dustydecorations:warm_seaglass_ceramic_tile"
+  }
+}

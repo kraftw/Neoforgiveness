@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "dustydecorations:snowy_cobblestone_slab"
+    },
+    {
+      "item": "dustydecorations:snowy_cobblestone_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "dustydecorations:snowy_cobblestone"
+  }
+}

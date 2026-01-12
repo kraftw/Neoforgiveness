@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "nomansland:mundane_tile_stairs"
+    },
+    {
+      "item": "nomansland:mundane_tile_stairs"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "nomansland:mundane_tiles"
+  }
+}

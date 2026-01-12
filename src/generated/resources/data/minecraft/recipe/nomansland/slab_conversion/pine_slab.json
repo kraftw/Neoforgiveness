@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "nomansland:pine_slab"
+    },
+    {
+      "item": "nomansland:pine_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "nomansland:pine_planks"
+  }
+}

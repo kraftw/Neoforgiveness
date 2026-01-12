@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "everycomp:crwo/bountifulfares/hoary_tile_slab"
+    },
+    {
+      "item": "everycomp:crwo/bountifulfares/hoary_tile_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "everycomp:crwo/bountifulfares/hoary_tiles"
+  }
+}

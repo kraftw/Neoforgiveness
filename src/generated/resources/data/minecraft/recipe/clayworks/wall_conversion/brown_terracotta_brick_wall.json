@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "clayworks:brown_terracotta_brick_wall"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "clayworks:brown_terracotta_bricks"
+  }
+}

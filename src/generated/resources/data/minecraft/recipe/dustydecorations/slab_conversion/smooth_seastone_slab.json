@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "dustydecorations:smooth_seastone_slab"
+    },
+    {
+      "item": "dustydecorations:smooth_seastone_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "dustydecorations:smooth_seastone"
+  }
+}

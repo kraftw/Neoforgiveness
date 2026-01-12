@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "nomansland:mundane_tile_slab"
+    },
+    {
+      "item": "nomansland:mundane_tile_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "nomansland:mundane_tiles"
+  }
+}

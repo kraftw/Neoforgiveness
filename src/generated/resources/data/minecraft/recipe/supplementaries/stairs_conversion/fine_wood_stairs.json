@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "supplementaries:fine_wood_stairs"
+    },
+    {
+      "item": "supplementaries:fine_wood_stairs"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "supplementaries:fine_wood"
+  }
+}

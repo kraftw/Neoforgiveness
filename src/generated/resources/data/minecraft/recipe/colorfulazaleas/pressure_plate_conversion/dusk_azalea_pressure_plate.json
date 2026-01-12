@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "colorfulazaleas:dusk_azalea_pressure_plate"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "colorfulazaleas:dusk_azalea_planks"
+  }
+}

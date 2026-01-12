@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "colorfulazaleas:dusk_azalea_fence"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "colorfulazaleas:dusk_azalea_planks"
+  }
+}

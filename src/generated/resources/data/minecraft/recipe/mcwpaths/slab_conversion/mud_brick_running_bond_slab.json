@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "mcwpaths:mud_brick_running_bond_slab"
+    },
+    {
+      "item": "mcwpaths:mud_brick_running_bond_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcwpaths:mud_brick_running_bond"
+  }
+}

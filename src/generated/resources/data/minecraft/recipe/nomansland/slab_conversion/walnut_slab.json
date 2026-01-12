@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "nomansland:walnut_slab"
+    },
+    {
+      "item": "nomansland:walnut_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "nomansland:walnut_planks"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "carved_wood:pale_oak_mosaic_stairs"
+    },
+    {
+      "item": "carved_wood:pale_oak_mosaic_stairs"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "carved_wood:pale_oak_mosaic"
+  }
+}

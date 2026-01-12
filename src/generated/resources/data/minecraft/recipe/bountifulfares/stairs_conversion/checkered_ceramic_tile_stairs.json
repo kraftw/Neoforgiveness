@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "bountifulfares:checkered_ceramic_tile_stairs"
+    },
+    {
+      "item": "bountifulfares:checkered_ceramic_tile_stairs"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "bountifulfares:checkered_ceramic_tiles"
+  }
+}

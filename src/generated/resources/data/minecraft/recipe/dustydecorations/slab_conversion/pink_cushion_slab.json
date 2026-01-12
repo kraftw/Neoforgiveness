@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "dustydecorations:pink_cushion_slab"
+    },
+    {
+      "item": "dustydecorations:pink_cushion_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "dustydecorations:pink_cushion"
+  }
+}

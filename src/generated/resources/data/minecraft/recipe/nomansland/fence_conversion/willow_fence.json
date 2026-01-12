@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "nomansland:willow_fence"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "nomansland:willow_planks"
+  }
+}

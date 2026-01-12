@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "mcwpaths:sandstone_running_bond_stairs"
+    },
+    {
+      "item": "mcwpaths:sandstone_running_bond_stairs"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "mcwpaths:sandstone_running_bond"
+  }
+}

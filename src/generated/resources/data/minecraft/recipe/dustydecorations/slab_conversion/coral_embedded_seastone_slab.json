@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "dustydecorations:coral_embedded_seastone_slab"
+    },
+    {
+      "item": "dustydecorations:coral_embedded_seastone_slab"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "dustydecorations:coral_embedded_seastone_bricks"
+  }
+}
